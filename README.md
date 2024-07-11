@@ -53,7 +53,7 @@ npx expo start
 
 <div align='center'>
  <img src="./assets/imagens-projeto/img1.png" alt="1">
- <img src="./assets/imagens-projeto/img2.png" alt="1">
- <img src="./assets/imagens-projeto/img3.png" alt="1">
+ <img src="./assets/imagens-projeto/img2.png" alt="2">
+ <img src="./assets/imagens-projeto/img3.png" alt="3">
 </div>
 

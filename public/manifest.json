@@ -1,0 +1,25 @@
+{
+    "short_name": "Manutenção Zeladoria",
+    "name": "App Manutenção Zeladoria",
+    "icons": [
+      {
+        "src": "icon-64x64.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      },
+      {
+        "src": "icon-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "splash512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }

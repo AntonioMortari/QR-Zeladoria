@@ -52,8 +52,8 @@ npx expo start
 # Imagens do projeto  <a name="id06"></a>
 
 <div align='center'>
- ![Imagem 1](assets/imagens-projeto/img1.png)
- ![Imagem 1](assets/imagens-projeto/img2.png)
- ![Imagem 1](assets/imagens-projeto/img3.png)
+ <img src="./assets/imagens-projeto/img1.png" alt="1">
+ <img src="./assets/imagens-projeto/img2.png" alt="1">
+ <img src="./assets/imagens-projeto/img3.png" alt="1">
 </div>
 
